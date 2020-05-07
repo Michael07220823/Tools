@@ -1,0 +1,1 @@
+compare_string = lambda input_text, compare_text:input_text == compare_text

@@ -1,0 +1,6 @@
++ [Video_example](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html)
++ [Getting Started with Videos](https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html)
++ [OpenCV 擷取網路攝影機串流影像，處理並寫入影片檔案教學](https://blog.gtwang.org/programming/opencv-webcam-video-capture-and-file-write-tutorial/)
++ [VideoCaptureProperties](https://docs.opencv.org/master/d4/d15/group__videoio__flags__base.html#ggaeb8dd9c89c10a5c63c139bf7c4f5704dab26d2ba37086662261148e9fe93eecad)
++ [fourcc query](http://www.fourcc.org/downloads/)
++ [Opencv視頻播放速度控制](https://mlog.club/article/1487933)
