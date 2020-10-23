@@ -20,12 +20,11 @@ if os.path.exists(args["image"]):
     img = cv.imread(args["image"])
     face_cascade = cv.CascadeClassifier(args["haarcascade_path"])
 
-    faces = face_cascade.detectMultiScale(
-        img,
-        scaleFactor = 1.01,
-        minNeighbors = 12,
-        minSize = (15, 15),
-        maxSize= (200, 200)
+    faces = face_cascade.detectMultiScale(img,
+                                          scaleFactor = 1.01,
+                                          minNeighbors = 12,
+                                          minSize = (15, 15),
+                                          maxSize= (200, 200)
     )
     
     if type(faces) != tuple:
